@@ -14,7 +14,7 @@
 - **Dynamic Candlestick Chart**: Visual analysis of price movements, market sentiment and trend reversals
 - **Dynamic Stock analysis**: Stock selection and analysis with a timeline chosen by the user
 
-**Português:** Este dashboard analisa dados abrangentes de pet shop incluindo:
+**Português:** Este dashboard analisa dados abrangentes ações financeiras:
 - **Fundamentos**: Valor de mercado, P/L, Rendimento de dividendo, retorno sobre o patrimônio líquido (ROE), valor intrínseco e P/VP (Preço do ativo sobre o valor patrimonial)
 - **Lucro**: Lucro liquído dos últimos 3 e 12 meses
 - **Receita**: Receita liquída dos últimos 3 e 12 meses
